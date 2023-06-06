@@ -6,7 +6,7 @@
 ## I'm Cihan Ömür, a Full-time Full-Stack Developer 👨‍💻 working since 2020 🚀  
   
 
-- 🔭 I’m currently working on [Albursa](https://albursa.com/) and  [Elmalı Tech](https://elmaligroup.com/)   
+- 🔭 I’m currently working on [Raven Soft](https://raven.com.tr/)
   
 
 - 🌱 I’m currently learning Laravel and Vue.js  
